@@ -22,7 +22,22 @@ Bootcamp-Capgemini
 - [x] Microserviços em Spring Cloud com Java
 - [x] Desafios numéricos em Java
 - [x] Criando uma solução de e-commerce com microserviços em java
-- 
+- [x] IDE Instalação e Configuração (Visual Studio Code)
+- [x] Introdução a criação de websites com HTML5 e CSS3
+- [x] Construindo páginas para internet com bootstrap
+- [x] Programação para internet com javascript
+- [x] JavaScript ES6 esencial
+- [x] Manipulando a D.O.M com javascript
+- [x] Recriando a interface no Netflix
+- [x] Desafio aritmético em javascript
+- [] Introdução ao typeScript explorando classes, tipos e interfaces
+- [] Introdução ao Angular 8
+- [] Técnicas avançadas em Angular
+- [] Criando projeto para consultar a previsão do tempo via API
+- [] Conceitos avançados de performance e otimização usando Angular
+- [] A Arquiterura de componentes e a gestão da complexidade dno front-end
+- [] Desafios avançados de código em javaScript
+- [] Desenvolvendo seu blog com as tecnologias de Java e Angular.
 
 
 
