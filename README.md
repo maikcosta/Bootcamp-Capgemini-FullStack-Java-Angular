@@ -31,7 +31,5 @@ Bootcamp-Capgemini
 - [Netflix]
     - [Página](https://maikcosta.github.io/Netflix/)
 
-
-
 37 Cursos
 117 hrs
