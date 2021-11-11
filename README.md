@@ -30,14 +30,14 @@ Bootcamp-Capgemini
 - [x] Manipulando a D.O.M com javascript
 - [x] Recriando a interface no Netflix
 - [x] Desafio aritmético em javascript
-- [] Introdução ao typeScript explorando classes, tipos e interfaces
-- [] Introdução ao Angular 8
-- [] Técnicas avançadas em Angular
-- [] Criando projeto para consultar a previsão do tempo via API
-- [] Conceitos avançados de performance e otimização usando Angular
-- [] A Arquiterura de componentes e a gestão da complexidade dno front-end
-- [] Desafios avançados de código em javaScript
-- [] Desenvolvendo seu blog com as tecnologias de Java e Angular.
+- [ ] Introdução ao typeScript explorando classes, tipos e interfaces
+- [ ] Introdução ao Angular 8
+- [ ] Técnicas avançadas em Angular
+- [ ] Criando projeto para consultar a previsão do tempo via API
+- [ ] Conceitos avançados de performance e otimização usando Angular
+- [ ] A Arquiterura de componentes e a gestão da complexidade dno front-end
+- [ ] Desafios avançados de código em javaScript
+- [ ] Desenvolvendo seu blog com as tecnologias de Java e Angular.
 
 
 
