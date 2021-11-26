@@ -26,7 +26,7 @@ public class Program {
                 int item = i +1;
                 System.out.println(item +" - Insert product name");
                 String name = sc.nextLine();
-                System.out.println(item + " - Insert product value (EX: 900.00)");
+                System.out.println(item + " - Insert product value. (EX: 900.00)");
                 double price = sc.nextDouble();
                 vect[i] = new Product(name,price);
             }
